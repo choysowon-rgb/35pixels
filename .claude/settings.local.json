@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"C:\\\\Users\\\\myhome\\\\Documents\\\\35pixels\\\\index.html\")",
+      "Bash(gh --version)",
+      "Bash(gh auth *)"
+    ]
+  }
+}
